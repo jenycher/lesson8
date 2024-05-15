@@ -6,3 +6,5 @@
 принцип подстановки Барбары Лисков (Liskov substitution Principle);
 принцип разделения интерфейсов (Interface Segregation Principle);
 принцип инверсии зависимости (Dependency Inversion Principle)
+
+
